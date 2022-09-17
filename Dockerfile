@@ -231,4 +231,4 @@ RUN set -x \
 WORKDIR /
 EXPOSE 9000
 ENTRYPOINT ["/entrypoint"]
-CMD ["supervisord
+CMD ["supervisord"]
