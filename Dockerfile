@@ -1,6 +1,7 @@
 #+++++++++++++++++++++++++++++++++++++++
-# Dockerfile for webdevops/php-official:8.0
-#    -- automatically generated  --
+# Dockerfile for esojaro/php:8.0
+# 
+# Based on https://github.com/webdevops/Dockerfile/tree/master/docker/php-official/8.0
 #+++++++++++++++++++++++++++++++++++++++
 
 
